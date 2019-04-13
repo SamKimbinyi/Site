@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello. I'm Sam Kimbinyi</title>
+    <description>Computer Science student from York</description>
+    <link>http://178.62.32.96:4000/</link>
+    <atom:link href="http://178.62.32.96:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 13 Apr 2019 23:30:54 +0000</pubDate>
+    <lastBuildDate>Sat, 13 Apr 2019 23:30:54 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Phantom</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 21:15:00 +0000</pubDate>
+        <link>http://178.62.32.96:4000/iot/2016/02/20/Thingitude.html</link>
+        <guid isPermaLink="true">http://178.62.32.96:4000/iot/2016/02/20/Thingitude.html</guid>
+        
+        <category>IOT</category>
+        
+        <category>Python</category>
+        
+        <category>Placement</category>
+        
+        
+        <category>IOT</category>
+        
+      </item>
+    
+  </channel>
+</rss>
