@@ -17,7 +17,7 @@ title: "Hello. I'm Sam Kimbinyi"
 email: 'skimbinyi@gmail.com'
 description: "Computer Science student from York"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kimbinyi.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'SamKimbinyi'
 github_username: 'SamKimbinyi'
 medium_username : ''
