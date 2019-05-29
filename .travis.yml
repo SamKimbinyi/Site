@@ -1,4 +1,14 @@
 language: ruby
 rvm:
   - 2.4.1
+
+
+sudo: false # route your build to the container-based infrastructure for a faster build
+
+cache: bundler # caching bundler gem packages will speed up build
+
+# Optional: disable email notifications about the outcome of your builds
+notifications:
+  email: true
+
 script: "bundle exec jekyll build"

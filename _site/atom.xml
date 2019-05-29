@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Hello. I'm Sam Kimbinyi</title>
- <link href="http://178.62.32.96:4000/atom.xml" rel="self"/>
- <link href="http://178.62.32.96:4000/"/>
- <updated>2019-04-13T23:30:54+00:00</updated>
- <id>http://178.62.32.96:4000</id>
+ <link href="https://kimbinyi.com/atom.xml" rel="self"/>
+ <link href="https://kimbinyi.com/"/>
+ <updated>2019-05-29T22:08:31+00:00</updated>
+ <id>https://kimbinyi.com</id>
  <author>
    <name>Sam Kimbinyi</name>
    <email></email>
@@ -13,10 +13,10 @@
 
  
  <entry>
-   <title>Phantom</title>
-   <link href="http://178.62.32.96:4000/iot/2016/02/20/Thingitude.html"/>
+   <title>Hotspot</title>
+   <link href="https://kimbinyi.com/iot/2016/02/20/Thingitude.html"/>
    <updated>2016-02-20T21:15:00+00:00</updated>
-   <id>http://178.62.32.96:4000/iot/2016/02/20/Thingitude</id>
+   <id>https://kimbinyi.com/iot/2016/02/20/Thingitude</id>
    <content type="html">
 </content>
  </entry>

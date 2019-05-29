@@ -3,19 +3,19 @@
   <channel>
     <title>Hello. I'm Sam Kimbinyi</title>
     <description>Computer Science student from York</description>
-    <link>http://178.62.32.96:4000/</link>
-    <atom:link href="http://178.62.32.96:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Apr 2019 23:30:54 +0000</pubDate>
-    <lastBuildDate>Sat, 13 Apr 2019 23:30:54 +0000</lastBuildDate>
+    <link>https://kimbinyi.com/</link>
+    <atom:link href="https://kimbinyi.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 29 May 2019 22:08:31 +0000</pubDate>
+    <lastBuildDate>Wed, 29 May 2019 22:08:31 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Phantom</title>
+        <title>Hotspot</title>
         <description>
 </description>
         <pubDate>Sat, 20 Feb 2016 21:15:00 +0000</pubDate>
-        <link>http://178.62.32.96:4000/iot/2016/02/20/Thingitude.html</link>
-        <guid isPermaLink="true">http://178.62.32.96:4000/iot/2016/02/20/Thingitude.html</guid>
+        <link>https://kimbinyi.com/iot/2016/02/20/Thingitude.html</link>
+        <guid isPermaLink="true">https://kimbinyi.com/iot/2016/02/20/Thingitude.html</guid>
         
         <category>IOT</category>
         
