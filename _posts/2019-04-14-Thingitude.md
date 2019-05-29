@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Phantom'
+title: 'Hotspot'
 date: 2016-02-20 21:15:00
 categories: IOT
 tags: IOT Python Placement
